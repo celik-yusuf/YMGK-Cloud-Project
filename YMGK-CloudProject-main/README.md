@@ -13,7 +13,7 @@ Fazla söze gerek yok görüyorsunuz.
 ## İletişim
 
 * [Özgür Tokay](mailto:ozytky@gmail.com)
-* [Barış Caylan](mailto:bariscaylan47@gmail.com)
+
 
 
 ## Teşekkür
