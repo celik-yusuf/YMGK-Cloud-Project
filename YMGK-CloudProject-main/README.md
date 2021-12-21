@@ -14,7 +14,7 @@ Fazla söze gerek yok görüyorsunuz.
 
 * [Özgür Tokay](mailto:ozytky@gmail.com)
 * [Barış Caylan](mailto:bariscaylan47@gmail.com)
-* [Yusuf Celik].(mailto:celik-yusuf@outlook.com.tr)
+
 
 ## Teşekkür
 
